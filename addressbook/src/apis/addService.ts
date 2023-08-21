@@ -27,4 +27,17 @@ export default class addService {
 			}
 		});
 	}
+
+	static async delete (
+		data:{id: number}
+	) {
+		return request({
+			"headers": {
+				"Content-Type": "application/json",
+			},
+			url: "/api/contact",
+			method: "delete",
+			data: data,
+		});
+	}
 }
