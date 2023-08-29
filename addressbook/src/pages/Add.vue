@@ -6,7 +6,7 @@ import addContacts from "../components/addContacter.vue";
     <el-container>
       <el-col :span="8">
         <div>
-          <el-image class="img" src="src/assets/Add.png">
+          <el-image class="img" src="Add.png">
           </el-image>
         </div>
       </el-col>

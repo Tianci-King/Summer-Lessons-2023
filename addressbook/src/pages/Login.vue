@@ -2,7 +2,7 @@
   <el-row>
     <el-col :span="8">
       <div>
-        <el-image class="img" src="src/assets/JHcartoon.png">
+        <el-image class="img" src="JHcartoon.png">
         </el-image>
       </div>
     </el-col>

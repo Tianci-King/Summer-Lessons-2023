@@ -6,14 +6,14 @@
     <div class="content">
       <el-descriptions :column="4" size="small" >
         <el-descriptions-item label="QQ group"
-        >885342047&ensp;&ensp;&ensp;</el-descriptions-item>
+        >467849640&ensp;&ensp;&ensp;</el-descriptions-item>
         <el-descriptions-item label="Github">
           <el-link href="http://github.com/Tianci-King/Summer-Lessons-2023">
             http://github.com/Tianci-King/Summer-Lessons-2023&ensp;&ensp;&ensp;
           </el-link>
         </el-descriptions-item>
         <el-descriptions-item label="Official website"
-        ><el-link href="http://www.jh.zjut.edu.cn/index">http://www.jh.zjut.edu.cn&ensp;&ensp;&ensp;</el-link>
+        ><el-link href="https://www.myzjut.org/index">https://www.myzjut.org/index&ensp;&ensp;&ensp;</el-link>
         </el-descriptions-item><el-descriptions-item label="Designed by"
       >Tiancy</el-descriptions-item>
 
