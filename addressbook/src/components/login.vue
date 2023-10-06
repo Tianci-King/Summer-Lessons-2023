@@ -60,8 +60,6 @@ if (res.data.msg === "OK" && res.data.code === 200) {
 
   newLoginStore.setLogin(true);
   console.log("登录状态"+newLoginStore.loginSession);
-  localStorage.setItem("login", String(true));
-  localStorage.setItem("name", String(responseData.username));
   newUserStore.setUserInfo({
     id: responseData.id,
     username: responseData.username,
